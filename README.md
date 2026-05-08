@@ -24,7 +24,6 @@ npm run build
 ```
 
 ## Live demo
-- [https://service-request-inbox-organization-workflow-standalo-a0kflfdjh.vercel.app/](https://service-request-inbox-organization-workflow-standalo-a0kflfdjh.vercel.app/)
 - [https://service-request-inbox-organization.vercel.app/](https://service-request-inbox-organization.vercel.app/)
 
 ## How to deploy
