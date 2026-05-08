@@ -23,6 +23,10 @@ npm run dev
 npm run build
 ```
 
+## Live demo
+- `https://service-request-inbox-organization-workflow-standalo-a0kflfdjh.vercel.app/`
+- `https://service-request-inbox-organization.vercel.app/`
+
 ## How to deploy
 This project loads CSVs from `public/data` using `fetch("/data/...")` so it works on Vercel, Netlify, and GitHub Pages.
 
